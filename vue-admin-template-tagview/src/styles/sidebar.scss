@@ -131,3 +131,14 @@
     }
   }
 }
+
+//自己添加
+.el-submenu__title{
+  background-color: $menuBg !important;
+}
+.el-menu-item.submenu-title-noDropdown{
+  background-color: $menuBg !important;
+}
+.el-scrollbar__view .el-menu{
+  background-color: $menuBg !important;
+}
